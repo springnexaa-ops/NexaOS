@@ -1,0 +1,26 @@
+# Generated build output
+build/rootfs/
+build/iso/
+output/
+*.iso
+
+# Package/cache files
+*.deb
+*.rpm
+*.tar
+*.tar.gz
+*.img
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors
+.vscode/
+.idea/
